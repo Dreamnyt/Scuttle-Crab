@@ -1,1 +1,3 @@
-# Scuttle-Crab
+# <h1 style align="center">Scuttle Crab <br> <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bde1653e-d350-4702-8753-79ff1d8e79c5/dcbsrmc-5995b0fd-1fab-4825-a252-80d7ad46da42.png/v1/fill/w_894,h_894,strp/rift_scuttler_by_pumkimask_dcbsrmc-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD0xMDI0IiwicGF0aCI6IlwvZlwvYmRlMTY1M2UtZDM1MC00NzAyLTg3NTMtNzlmZjFkOGU3OWM1XC9kY2Jzcm1jLTU5OTViMGZkLTFmYWItNDgyNS1hMjUyLTgwZDdhZDQ2ZGE0Mi5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.xSOMUDWY5M_qELCvQNHEhJ2bGLyWcX3GHnyECEZBpmg" width="100"></h1>
+<p align = "center">A bot for Discord, developed using discord.js - used for statistics for League of Legends.</p>
+
